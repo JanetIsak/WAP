@@ -15,3 +15,12 @@ span{
   font-size: bold;
   font-weight: 800;
 }
+
+.Moods{
+  text-align: left;
+}
+.Moods img{
+  width: 250px;
+  height: 250px;
+
+}
