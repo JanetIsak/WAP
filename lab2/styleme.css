@@ -7,10 +7,11 @@ h3{
 
 body{
   color: black;
+  background-color: beige;
 }
 
 span{
   font-family: Verdana;
-  font-size: medium;
+  font-size: bold;
   font-weight: 800;
 }
